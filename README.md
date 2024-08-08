@@ -1,6 +1,6 @@
 I believe it is necessary to delay the launch of the new feature because we don't have an icon for the new button in place.
 
-Requirements already involve multiple assumptions, so I'll be sure to add more in my assumption-based programming.
+I use assumption-based programming because an extra assumption is lost among the many in the given requirements.
 
 I give comfort to middle managers who really don't know what's going on.
 
