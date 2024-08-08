@@ -1,6 +1,6 @@
-Requirements involve multiple layers of assumptions already, so I'll make sure to include additional ones in my assumption-based programming
-
 I believe it is necessary to delay the launch of the new feature because we don't have an icon for the new button in place.
+
+Requirements already involve multiple assumptions, so I'll be sure to add more in my assumption-based programming.
 
 I give comfort to middle managers who really don't know what's going on.
 
