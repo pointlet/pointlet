@@ -1,4 +1,4 @@
-I think that it's OK that you're late. It's perfectly fine that multiple people's time was wasted because you prioritized an unplanned meeting, leaving us unable to move forward. 
+I think that it's OK that you're late. It's perfectly fine that multiple people's time was wasted because you prioritized an unscheduled meeting, leaving us unable to move forward. 
 
 I believe it is necessary to delay the launch of the new feature because we don't have an icon for the new button in place.
 
